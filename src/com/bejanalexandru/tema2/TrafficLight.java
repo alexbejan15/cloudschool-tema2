@@ -1,3 +1,5 @@
+package com.bejanalexandru.tema2;
+
 import java.util.concurrent.Semaphore;
 
 class TrafficLight {
